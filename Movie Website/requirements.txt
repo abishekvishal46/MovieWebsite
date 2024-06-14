@@ -1,2 +1,4 @@
 Flask==3.0.3
 imdbpy==2022.7.9
+gunicorn==20.1.0
+
